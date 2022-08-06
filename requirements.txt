@@ -1,0 +1,10 @@
+joblib
+matplotlib
+numpy
+pandas
+Pillow
+scikit-image
+streamlit
+streamlit-drawable-canvas
+tensorflow
+xgboost
