@@ -4,6 +4,7 @@ numpy
 pandas
 Pillow
 scikit-image
+scikit-learn
 streamlit
 streamlit-drawable-canvas
 tensorflow
